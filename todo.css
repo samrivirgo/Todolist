@@ -1,0 +1,19 @@
+html , body{
+    width: 50%;
+    font-family: sans-serif;
+    margin: 0 auto;
+    background-color: rgb(111, 197, 236);
+
+}
+.container{
+    width: 360px;
+    display: flex;
+    flex-direction: row;
+    
+}
+button{
+    background-color: blueviolet;
+}
+.container-todo{
+    font-weight: bold;
+}
